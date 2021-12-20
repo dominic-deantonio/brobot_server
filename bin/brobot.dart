@@ -12,5 +12,7 @@ void main() async {
     return dirIndex;
   });
 
+  app.all('/status', (req, res) => 'OK');
+
   await app.listen(3000);
 }
