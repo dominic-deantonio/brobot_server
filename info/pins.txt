@@ -1,0 +1,5 @@
+brown  7   -> in1
+orange 8   -> in2
+white  9   -> in3
+yellow 10  -> in4
+black  GND -> GND
